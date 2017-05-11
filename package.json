@@ -1,0 +1,16 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finding survey application using node and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Daniel Stout",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
